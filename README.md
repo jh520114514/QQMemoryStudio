@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="docs/avatar.jpg" width="180" alt="姜黄">
+  <h3>姜黄 · QQ Memory Studio</h3>
+</div>
+
 # QQ Memory Studio
 
 > 一个独立的 Windows 桌面 GUI，用来管理**本机 QQ 长期记忆库**：把 QQ 的聊天记录解密、抽取、
